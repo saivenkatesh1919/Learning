@@ -1,0 +1,4 @@
+---
+  - name: reboot windows server
+    win_reboot:
+      timeout: 1200
